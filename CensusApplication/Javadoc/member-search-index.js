@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"PackageOne","c":"CensusApplication.Census","l":"Census()","url":"%3Cinit%3E()"},{"p":"PackageOne","c":"CensusApplication","l":"CensusApplication()","url":"%3Cinit%3E()"},{"p":"PackageOne","c":"CensusApplication","l":"main(String[])","url":"main(java.lang.String[])"}]
